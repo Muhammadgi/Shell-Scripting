@@ -11,7 +11,7 @@
 
 ## 🔍 Overview
 
-**Linux Package Checker & Installer** is a Bash automation script designed to streamline package management on Linux systems. Instead of manually running multiple commands to verify and install software, this script consolidates the entire workflow into a single, interactive session — checking package availability, installation status, and prompting for user confirmation before making any changes.
+**Linux Package Checker & Installer** is a Bash automation script designed to streamline package management on Linux systems. Instead of manually running multiple commands to verify and install software, this script consolidates the entire workflow into a single, interactive session checking package availability, installation status, and prompting for user confirmation before making any changes.
 
 Whether you're managing a fresh server, setting up a development environment, or learning Linux automation, this script provides a clean and controlled approach to software installation.
 

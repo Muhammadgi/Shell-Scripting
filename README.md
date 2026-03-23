@@ -235,4 +235,4 @@ See the [LICENSE](./LICENSE) file for full details.
 
 If you found this project useful or learned something from it, consider giving it a **star on GitHub** — it helps others discover the project and motivates continued development.
 
-> 💬 Have a suggestion or found a bug? [Open an issue](https://github.com/your-username/linux-package-checker/issues) — all feedback is welcome.
+> 💬 Have a suggestion or found a bug? feedback is welcome.

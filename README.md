@@ -43,8 +43,8 @@ Whether you're managing a fresh server, setting up a development environment, or
 ## 🗂️ Project Structure
 
 ```
-linux-package-checker/
-├── package_checker.sh      # Main script — entry point
+Shell-Scripting/
+├── shell.sh      # Main script — entry point
 ├── README.md               # Project documentation
 └── LICENSE                 # MIT License
 ```
@@ -64,25 +64,25 @@ linux-package-checker/
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/linux-package-checker.git
+git clone https://github.com/Muhammadgi/Shell-Scripting
 ```
 
 **2. Navigate into the project directory:**
 
 ```bash
-cd linux-package-checker
+cd Shell-Scripting
 ```
 
 **3. Make the script executable:**
 
 ```bash
-chmod +x package_checker.sh
+chmod +x shell.sh
 ```
 
 **4. Run the script:**
 
 ```bash
-./package_checker.sh
+./shell.sh
 ```
 
 > 💡 If a package installation is triggered, the script will automatically invoke `sudo`. Ensure your user has the necessary permissions.

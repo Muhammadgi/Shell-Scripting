@@ -226,7 +226,7 @@ See the [LICENSE](./LICENSE) file for full details.
 ## 👤 Author
 
 **Your Name**
-- 🌐 Website: aws.codebyharris.com
+- 🌐 Website: https://aws.codebyharris.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-haris-323268236/
 - 📧 Email: khanhkharis1@gmail.com
 ---

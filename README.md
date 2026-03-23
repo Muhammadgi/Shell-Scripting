@@ -226,10 +226,9 @@ See the [LICENSE](./LICENSE) file for full details.
 ## 👤 Author
 
 **Your Name**
-- 🌐 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-
+- 🌐 Website: aws.codebyharris.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-haris-323268236/
+- 📧 Email: khanhkharis1@gmail.com
 ---
 
 ## ⭐ Support
